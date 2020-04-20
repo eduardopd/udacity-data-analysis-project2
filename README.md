@@ -28,9 +28,7 @@ The Jupyter notebook is filled with two types of cells, markdown and, code. To r
 
 #### Adding more countries'
 
-If you want to add more countries, download the country data at [GapMinder](https://www.gapminder.org/data/). You should not add new indicators, when downloading new data, choose the analysis indicators. 
-
-Remember to update the following variables and function adding new country/countries' names:
+If you want to add more countries, update the following variables and function adding new country/countries' names:
 ```
 countries = ['angola', 'argentina', 'australia', 'brazil', 'cameroon', 'china', 'egypt', 'france', 'finland', 'germany', 'italy', 'japan', 'mexico', 'south_africa', 'spain', 'usa']
 ```
